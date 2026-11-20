@@ -3792,6 +3792,890 @@
       ]
     },
     {
+      "name": "maimai",
+      "path": "mai_predx",
+      "items": [
+        {
+          "name": "FiNALE (1.99)",
+          "path": "mai_predx/1.99",
+          "audio": [
+            {
+              "name": "Title",
+              "uuid": "85e9c978-8ab8-4ee5-abbe-e8f3cb1070f5",
+              "path": "bgm/title.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_Title_logo",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 577088,
+                "duration_seconds": 13.085896,
+                "play_samples": 1595048,
+                "play_duration_seconds": 36.168889,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 577024,
+                  "start_seconds": 0,
+                  "end_seconds": 13.084444
+                },
+                "end_sample": 577088,
+                "end_seconds": 13.085896
+              }
+            },
+            {
+              "name": "Title (MiLK)",
+              "uuid": "ffad2e73-1792-4f8d-aba5-9ccd121dbb35",
+              "path": "bgm/title_milk.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "UNKNOWN",
+                "sample_rate": 44097,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 520512,
+                "duration_seconds": 11.803796,
+                "play_samples": 1481866,
+                "play_duration_seconds": 33.60469,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 520448,
+                  "start_seconds": 0,
+                  "end_seconds": 11.802345
+                },
+                "end_sample": 520512,
+                "end_seconds": 11.803796
+              }
+            },
+            {
+              "name": "Entry",
+              "uuid": "1811be10-9c70-493d-a975-0e9e615ff035",
+              "path": "bgm/entry.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_setup_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 4762752,
+                "duration_seconds": 108.001361,
+                "play_samples": 9437214,
+                "play_duration_seconds": 214.000635,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 529152,
+                  "end_sample": 4762688,
+                  "start_seconds": 11.999184,
+                  "end_seconds": 107.999909
+                },
+                "end_sample": 4762752,
+                "end_seconds": 108.001361
+              }
+            },
+            {
+              "name": "Entry (maimai)",
+              "uuid": "5fcc7066-06b9-4235-9d36-9d6980ecca01",
+              "path": "bgm/entry_maimai.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_shodai_bgm",
+                "sample_rate": 44101,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 529280,
+                "duration_seconds": 12.001542,
+                "play_samples": 1499442,
+                "play_duration_seconds": 34.000181,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 529216,
+                  "start_seconds": 0,
+                  "end_seconds": 12.000091
+                },
+                "end_sample": 529280,
+                "end_seconds": 12.001542
+              }
+            },
+            {
+              "name": "Entry (GreeN)",
+              "uuid": "47f8831d-1da8-48e4-8844-55f1875ab3f4",
+              "path": "bgm/entry_green.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_green_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 705600,
+                "duration_seconds": 16,
+                "play_samples": 1852200,
+                "play_duration_seconds": 42,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 705600,
+                  "start_seconds": 0,
+                  "end_seconds": 16
+                },
+                "end_sample": 705600,
+                "end_seconds": 16
+              }
+            },
+            {
+              "name": "Entry (ORANGE)",
+              "uuid": "d8aef127-b024-43d1-bb35-81c3a45af90f",
+              "path": "bgm/entry_orange.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_orange_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1152064,
+                "duration_seconds": 26.124493,
+                "play_samples": 2744990,
+                "play_duration_seconds": 62.246083,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 1152000,
+                  "start_seconds": 0,
+                  "end_seconds": 26.123041
+                },
+                "end_sample": 1152064,
+                "end_seconds": 26.124493
+              }
+            },
+            {
+              "name": "Entry (PiNK)",
+              "uuid": "773773eb-d7be-4518-975b-48e2c195c32e",
+              "path": "bgm/entry_pink.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_pink_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1227200,
+                "duration_seconds": 27.827664,
+                "play_samples": 2895272,
+                "play_duration_seconds": 65.652426,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 1227136,
+                  "start_seconds": 0,
+                  "end_seconds": 27.826213
+                },
+                "end_sample": 1227200,
+                "end_seconds": 27.827664
+              }
+            },
+            {
+              "name": "Entry (MURASAKi)",
+              "uuid": "02473a3c-ffe2-45df-85aa-1a52c8140572",
+              "path": "bgm/entry_murasaki.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_murasaki_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 2847680,
+                "duration_seconds": 64.574707,
+                "play_samples": 5304606,
+                "play_duration_seconds": 120.288578,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 831616,
+                  "end_sample": 2847616,
+                  "start_seconds": 18.857933,
+                  "end_seconds": 64.573256
+                },
+                "end_sample": 2847680,
+                "end_seconds": 64.574707
+              }
+            },
+            {
+              "name": "Entry (MiLK)",
+              "uuid": "4464bdb8-ebae-436c-9de2-4cc34c6801be",
+              "path": "bgm/entry_milk.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_milk_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 2012160,
+                "duration_seconds": 45.627211,
+                "play_samples": 4124264,
+                "play_duration_seconds": 93.520726,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 340928,
+                  "end_sample": 2012096,
+                  "start_seconds": 7.730794,
+                  "end_seconds": 45.62576
+                },
+                "end_sample": 2012160,
+                "end_seconds": 45.627211
+              }
+            },
+            {
+              "name": "Result",
+              "uuid": "a3be5522-2bfd-4f37-8651-f1dfaaa5f8cf",
+              "path": "bgm/result.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_Music_result_start",
+                "sample_rate": 44101,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 755904,
+                "duration_seconds": 17.140292,
+                "play_samples": 1801714,
+                "play_duration_seconds": 40.854266,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 150976,
+                  "end_sample": 755840,
+                  "start_seconds": 3.423414,
+                  "end_seconds": 17.13884
+                },
+                "end_sample": 755904,
+                "end_seconds": 17.140292
+              }
+            },
+            {
+              "name": "Result Clear",
+              "uuid": "dcc2e897-2bb9-48ea-9d6e-14c490015eb2",
+              "path": "bgm/result_clear.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_Music_result_start3",
+                "sample_rate": 44101,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 755648,
+                "duration_seconds": 17.134487,
+                "play_samples": 1801842,
+                "play_duration_seconds": 40.857169,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 150336,
+                  "end_sample": 755584,
+                  "start_seconds": 3.408902,
+                  "end_seconds": 17.133036
+                },
+                "end_sample": 755648,
+                "end_seconds": 17.134487
+              }
+            },
+            {
+              "name": "Result (maimai)",
+              "uuid": "b89425b6-6319-47d5-abc6-cafe8d48e6ee",
+              "path": "bgm/result_maimai.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_shodai_bgm",
+                "sample_rate": 44101,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 522752,
+                "duration_seconds": 11.853518,
+                "play_samples": 1486386,
+                "play_duration_seconds": 33.704134,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 522688,
+                  "start_seconds": 0,
+                  "end_seconds": 11.852067
+                },
+                "end_sample": 522752,
+                "end_seconds": 11.853518
+              }
+            },
+            {
+              "name": "Result (GreeN)",
+              "uuid": "2671329d-c783-4e14-8cda-79abb35f5a7c",
+              "path": "bgm/result_green.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_green_normal_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 661568,
+                "duration_seconds": 15.001542,
+                "play_samples": 1764008,
+                "play_duration_seconds": 40.000181,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 661504,
+                  "start_seconds": 0,
+                  "end_seconds": 15.000091
+                },
+                "end_sample": 661568,
+                "end_seconds": 15.001542
+              }
+            },
+            {
+              "name": "Result Clear (GreeN)",
+              "uuid": "bdbf49f4-e951-4aba-ac29-bd0d97f18b56",
+              "path": "bgm/result_clear_green.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_green_clear_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1653824,
+                "duration_seconds": 37.501678,
+                "play_samples": 3748520,
+                "play_duration_seconds": 85.000454,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 1653760,
+                  "start_seconds": 0,
+                  "end_seconds": 37.500227
+                },
+                "end_sample": 1653824,
+                "end_seconds": 37.501678
+              }
+            },
+            {
+              "name": "Result (ORANGE)",
+              "uuid": "8f22439f-d58d-4db8-b756-c94da32b4aff",
+              "path": "bgm/result_orange.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_orange_normal_bgm",
+                "sample_rate": 44102,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 588096,
+                "duration_seconds": 13.334905,
+                "play_samples": 1617084,
+                "play_duration_seconds": 36.666909,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 588032,
+                  "start_seconds": 0,
+                  "end_seconds": 13.333454
+                },
+                "end_sample": 588096,
+                "end_seconds": 13.334905
+              }
+            },
+            {
+              "name": "Result Clear (ORANGE)",
+              "uuid": "eb2764bd-e922-49ad-a277-2a0777b5ed2c",
+              "path": "bgm/result_clear_orange.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_orange_clear_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1176000,
+                "duration_seconds": 26.666667,
+                "play_samples": 2793000,
+                "play_duration_seconds": 63.333333,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 1176000,
+                  "start_seconds": 0,
+                  "end_seconds": 26.666667
+                },
+                "end_sample": 1176000,
+                "end_seconds": 26.666667
+              }
+            },
+            {
+              "name": "Result (PiNK)",
+              "uuid": "a2bddfb9-cd0c-49d1-b1ec-47d609c751b0",
+              "path": "bgm/result_pink.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_pink_normal_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1045376,
+                "duration_seconds": 23.705209,
+                "play_samples": 2531614,
+                "play_duration_seconds": 57.407515,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 1045312,
+                  "start_seconds": 0,
+                  "end_seconds": 23.703757
+                },
+                "end_sample": 1045376,
+                "end_seconds": 23.705209,
+                "source_files": [
+                  "SE_0374_SE_sys_remaster_result_pink_normal_bgm.wav",
+                  "SE_0193_UNKNOWN.wav"
+                ]
+              }
+            },
+            {
+              "name": "Result Clear (PiNK)",
+              "uuid": "0f2a6d4f-b6c3-4a9d-9fbe-1745842c257f",
+              "path": "bgm/result_clear_pink.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_pink_clear_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1045376,
+                "duration_seconds": 23.705209,
+                "play_samples": 2531614,
+                "play_duration_seconds": 57.407515,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 1045312,
+                  "start_seconds": 0,
+                  "end_seconds": 23.703757
+                },
+                "end_sample": 1045376,
+                "end_seconds": 23.705209,
+                "source_files": [
+                  "SE_0373_SE_sys_remaster_result_pink_clear_bgm.wav",
+                  "SE_0192_UNKNOWN.wav"
+                ]
+              }
+            },
+            {
+              "name": "Result (MURASAKi)",
+              "uuid": "d3ac7800-9656-466e-ba28-524e02267931",
+              "path": "bgm/result_murasaki.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_murasaki_normal_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1228608,
+                "duration_seconds": 27.860224,
+                "play_samples": 2274334,
+                "play_duration_seconds": 51.573369,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 623744,
+                  "end_sample": 1228544,
+                  "start_seconds": 14.144176,
+                  "end_seconds": 27.858772
+                },
+                "end_sample": 1228608,
+                "end_seconds": 27.860224
+              }
+            },
+            {
+              "name": "Result Clear (MURASAKi)",
+              "uuid": "6d721ef2-6621-4185-8812-df4545765413",
+              "path": "bgm/result_clear_murasaki.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_murasaki_clear_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1228608,
+                "duration_seconds": 27.860224,
+                "play_samples": 2274334,
+                "play_duration_seconds": 51.573369,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 623744,
+                  "end_sample": 1228544,
+                  "start_seconds": 14.144176,
+                  "end_seconds": 27.858772
+                },
+                "end_sample": 1228608,
+                "end_seconds": 27.860224
+              }
+            },
+            {
+              "name": "Result (MiLK)",
+              "uuid": "bb8c9494-e250-4994-8bd8-4fb54ab79ff7",
+              "path": "bgm/result_milk.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_milk_normal_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 658176,
+                "duration_seconds": 14.924626,
+                "play_samples": 1625896,
+                "play_duration_seconds": 36.86839,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 131328,
+                  "end_sample": 658112,
+                  "start_seconds": 2.977959,
+                  "end_seconds": 14.923175
+                },
+                "end_sample": 658176,
+                "end_seconds": 14.924626
+              }
+            },
+            {
+              "name": "Result Clear (MiLK)",
+              "uuid": "4aa0d32f-67bb-4fa8-aafb-71e68f9cb9e4",
+              "path": "bgm/result_clear_milk.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_remaster_result_milk_clear_bgm",
+                "sample_rate": 44101,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 657856,
+                "duration_seconds": 14.917031,
+                "play_samples": 1625394,
+                "play_duration_seconds": 36.856171,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 131200,
+                  "end_sample": 657792,
+                  "start_seconds": 2.974989,
+                  "end_seconds": 14.91558
+                },
+                "end_sample": 657856,
+                "end_seconds": 14.917031
+              }
+            },
+            {
+              "name": "Collection (MiLK)",
+              "uuid": "3b5ad147-2b8c-400c-aeba-6214d577104e",
+              "path": "bgm/collection_milk.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "UNKNOWN",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 2798144,
+                "duration_seconds": 63.449977,
+                "play_samples": 6037160,
+                "play_duration_seconds": 136.897052,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 2798080,
+                  "start_seconds": 0,
+                  "end_seconds": 63.448526
+                },
+                "end_sample": 2798144,
+                "end_seconds": 63.449977
+              }
+            },
+            {
+              "name": "Collection",
+              "uuid": "dd58aea7-5d86-4f70-846a-c439de95355a",
+              "path": "bgm/collection.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_trophy_music_",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 4344896,
+                "duration_seconds": 98.523719,
+                "play_samples": 8908072,
+                "play_duration_seconds": 201.997098,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 222592,
+                  "end_sample": 4344832,
+                  "start_seconds": 5.047438,
+                  "end_seconds": 98.522268
+                },
+                "end_sample": 4344896,
+                "end_seconds": 98.523719
+              }
+            },
+            {
+              "name": "Game Over",
+              "uuid": "81afc809-d215-4d53-8648-5050b392e6cc",
+              "path": "bgm/game_over.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_sys_gameover",
+                "sample_rate": 44102,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 231808,
+                "duration_seconds": 5.256179,
+                "play_samples": 904508,
+                "play_duration_seconds": 20.509455,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 231744,
+                  "start_seconds": 0,
+                  "end_seconds": 5.254728
+                },
+                "end_sample": 231808,
+                "end_seconds": 5.256179
+              }
+            },
+            {
+              "name": "Dan Course",
+              "uuid": "72adff22-3948-4db5-bfae-65540a24650d",
+              "path": "bgm/dan_course.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "maimai170_dani_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 613632,
+                "duration_seconds": 13.914558,
+                "play_samples": 1668136,
+                "play_duration_seconds": 37.826213,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 613568,
+                  "start_seconds": 0,
+                  "end_seconds": 13.913107
+                },
+                "end_sample": 613632,
+                "end_seconds": 13.914558
+              }
+            },
+            {
+              "name": "PANDORA BOXXX Entry",
+              "uuid": "11f48c79-396f-455d-82c5-b0cf247b7925",
+              "path": "bgm/pandora_entry.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_pandra_home_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 2616960,
+                "duration_seconds": 59.341497,
+                "play_samples": 5230440,
+                "play_duration_seconds": 118.604082,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 444352,
+                  "end_sample": 2616896,
+                  "start_seconds": 10.076009,
+                  "end_seconds": 59.340045
+                },
+                "end_sample": 2616960,
+                "end_seconds": 59.341497
+              }
+            },
+            {
+              "name": "PANDORA BOXXX Movie",
+              "uuid": "16515cdf-fce9-458b-b584-1a1d88b3ff9f",
+              "path": "bgm/pandora_movie.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_pandra_movie",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 661568,
+                "duration_seconds": 15.001542,
+                "play_samples": 1764008,
+                "play_duration_seconds": 40.000181,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 0,
+                  "end_sample": 661504,
+                  "start_seconds": 0,
+                  "end_seconds": 15.000091
+                },
+                "end_sample": 661568,
+                "end_seconds": 15.001542
+              }
+            },
+            {
+              "name": "PANDORA BOXXX Result",
+              "uuid": "a2593a40-b5c8-437c-838e-6ab7dc66137a",
+              "path": "bgm/pandora_result.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_pandra_result_normal_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1026944,
+                "duration_seconds": 23.286712,
+                "play_samples": 2289512,
+                "play_duration_seconds": 51.916372,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 205248,
+                  "end_sample": 1026880,
+                  "start_seconds": 4.65415,
+                  "end_seconds": 23.285261
+                },
+                "end_sample": 1026944,
+                "end_seconds": 23.286712
+              }
+            },
+            {
+              "name": "PANDORA Result Clear",
+              "uuid": "41e0278e-fa2d-4ce9-848e-fa7fb6e3ba15",
+              "path": "bgm/pandora_result_clear.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_pandra_result_clear_bgm",
+                "sample_rate": 44100,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1027648,
+                "duration_seconds": 23.302676,
+                "play_samples": 2290792,
+                "play_duration_seconds": 51.945397,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 205376,
+                  "end_sample": 1027584,
+                  "start_seconds": 4.657052,
+                  "end_seconds": 23.301224
+                },
+                "end_sample": 1027648,
+                "end_seconds": 23.302676
+              }
+            },
+            {
+              "name": "FiNALE Course Home",
+              "uuid": "d944da84-ace4-4e37-b64d-7f492177662b",
+              "path": "bgm/finale_course_home.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "SE_finale_course_home_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 1228352,
+                "duration_seconds": 27.854418,
+                "play_samples": 2613982,
+                "play_duration_seconds": 59.275312,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 283584,
+                  "end_sample": 1228288,
+                  "start_seconds": 6.430622,
+                  "end_seconds": 27.852967
+                },
+                "end_sample": 1228352,
+                "end_seconds": 27.854418
+              }
+            },
+            {
+              "name": "Event?",
+              "uuid": "75f72c77-6b7b-4fa5-84ca-8293767ee27f",
+              "path": "bgm/event.wav",
+              "type": "bgm",
+              "metadata": {
+                "name": "maimai170_ivent_bgm",
+                "sample_rate": 44099,
+                "channels": 2,
+                "encoding": "Microsoft 4-bit ADPCM",
+                "total_samples": 745472,
+                "duration_seconds": 16.90451,
+                "play_samples": 1783006,
+                "play_duration_seconds": 40.431892,
+                "start_sample": 0,
+                "start_seconds": 0,
+                "loop": {
+                  "enabled": true,
+                  "start_sample": 148800,
+                  "end_sample": 745408,
+                  "start_seconds": 3.374226,
+                  "end_seconds": 16.903059
+                },
+                "end_sample": 745472,
+                "end_seconds": 16.90451
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "O.N.G.E.K.I.",
       "path": "geki",
       "items": [
