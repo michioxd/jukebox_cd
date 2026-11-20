@@ -3816,7 +3816,7 @@
                 "start_sample": 0,
                 "start_seconds": 0,
                 "loop": {
-                  "enabled": true,
+                  "enabled": false,
                   "start_sample": 0,
                   "end_sample": 577024,
                   "start_seconds": 0,
@@ -3843,7 +3843,7 @@
                 "start_sample": 0,
                 "start_seconds": 0,
                 "loop": {
-                  "enabled": true,
+                  "enabled": false,
                   "start_sample": 0,
                   "end_sample": 520448,
                   "start_seconds": 0,
@@ -4472,7 +4472,7 @@
                 "start_sample": 0,
                 "start_seconds": 0,
                 "loop": {
-                  "enabled": true,
+                  "enabled": false,
                   "start_sample": 0,
                   "end_sample": 231744,
                   "start_seconds": 0,
@@ -4553,7 +4553,7 @@
                 "start_sample": 0,
                 "start_seconds": 0,
                 "loop": {
-                  "enabled": true,
+                  "enabled": false,
                   "start_sample": 0,
                   "end_sample": 661504,
                   "start_seconds": 0,
